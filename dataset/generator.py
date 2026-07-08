@@ -8,7 +8,7 @@ import json
 DB_CONFIG = {
     "dbname":   "tracenet",
     "user":     "postgres",
-    "password": "171314",
+    "password": "lavish01",
     "host":     "localhost",
     "port":     5432
 }

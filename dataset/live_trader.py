@@ -6,7 +6,7 @@ from datetime import datetime
 import requests
 
 BASE_URL = "http://localhost:5000/api"
-CONFIG_FILE = "ringsconfig.json"
+CONFIG_FILE = "rings_config.json"
 
 NORMAL_TRADE_INTERVAL = 1.2
 RING_STEP_INTERVAL = 0.55

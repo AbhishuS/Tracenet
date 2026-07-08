@@ -6,7 +6,7 @@ DB_CONFIG = {
     "host":     "localhost",
     "database": "tracenet",
     "user":     "postgres",
-    "password": "171314"   # ← change this
+    "password": "lavish01"   # ← change this
 }
 
 conn = psycopg2.connect(**DB_CONFIG)
